@@ -1,0 +1,22 @@
+.p-color{
+    background-color: #E9D8EC;
+}
+
+.s-color {
+    background-color: #C8B5DD;
+}
+
+.deg:hover {
+    background-color:#C8B5DD;
+}
+
+.click:focus {
+    background-color: white;
+}
+
+.t-color:focus {
+    color: black;
+}
+.bk-color {
+    background-color: #F2E8EE;
+}
