@@ -20,7 +20,7 @@ body {
 
 /* COLOR SECUNDARIO */
 .c-secundary {
-    background-color: #E4C8E7;
+    background-color: hsl(294, 39%, 85%); 
 }
 
 .c-dropdown {
@@ -31,6 +31,9 @@ body {
     background-color: #231328;
 }
 
+.c-compras{
+    background-color: #D9C6D5;
+}
 .click:focus {
     background-color: white;
 }
