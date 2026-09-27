@@ -1,0 +1,40 @@
+/* FUENTE GENERAL */
+:root {
+    --bs-body-font-family: 'Lora', serif;
+}
+
+body {
+    font-family: var(--bs-body-font-family);
+}
+
+/* FUENTE DEL TITULO */
+.fuente-titulo {
+    font-family: 'Emilys Candy', static;
+}
+
+/* BACKGROUND COLOR */
+.bg-color{
+    background-color: #F1E0F1;
+}
+
+
+/* COLOR SECUNDARIO */
+.c-secundary {
+    background-color: #E4C8E7;
+}
+
+.c-dropdown {
+    background-color: #F2E8EE;
+}
+
+.c-footer {
+    background-color: #231328;
+}
+
+.click:focus {
+    background-color: white;
+}
+
+.t-color:focus {
+    color: black;
+}
