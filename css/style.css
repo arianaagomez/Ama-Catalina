@@ -1,13 +1,34 @@
-.p-color{
-    background-color: #E9D8EC;
+/* FUENTE GENERAL */
+:root {
+    --bs-body-font-family: 'Lora', serif;
 }
 
-.s-color {
-    background-color: #C8B5DD;
+body {
+    font-family: var(--bs-body-font-family);
 }
 
-.deg:hover {
-    background-color:#C8B5DD;
+/* FUENTE DEL TITULO */
+.fuente-titulo {
+    font-family: 'Emilys Candy', static;
+}
+
+/* BACKGROUND COLOR */
+.bg-color{
+    background-color: #F1E0F1;
+}
+
+
+/* COLOR SECUNDARIO */
+.c-secundary {
+    background-color: #E4C8E7;
+}
+
+.c-dropdown {
+    background-color: #F2E8EE;
+}
+
+.c-footer {
+    background-color: #231328;
 }
 
 .click:focus {
@@ -16,7 +37,4 @@
 
 .t-color:focus {
     color: black;
-}
-.bk-color {
-    background-color: #F2E8EE;
 }
